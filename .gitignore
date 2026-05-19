@@ -1,3 +1,4 @@
 *.pth
 /flickr8k/Images/*
 /flickr8k/captions.txt
+flickr8k/
